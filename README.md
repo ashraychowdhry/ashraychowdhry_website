@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the archived version of ashraychowdhry.com. It was published online until 2020, but now the new github project for this is ashraysportfolio.
 
 ## Available Scripts
 
